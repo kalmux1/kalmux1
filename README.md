@@ -66,7 +66,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kalmux1/kalmux1/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/kalmux1/kalmux1/blob/output/snake.svg" />
   
   <br/><br/><br/>
 </div>
