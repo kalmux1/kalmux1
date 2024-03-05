@@ -1,4 +1,6 @@
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkalmux1"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkalmux1&label=VISITORS&labelColor=%23697689&countColor=%2337d67a&style=flat&labelStyle=upper" /></a>
+<p align="center">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkalmux1"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkalmux1&label=VISITORS&labelColor=%23697689&countColor=%2337d67a&style=flat&labelStyle=upper" /></a>
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=20F716&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitin+Jaiswal!;" />
@@ -87,3 +89,9 @@
 <div align=center>
     <a href="https://www.buymeacoffee.com/kalmux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
+
+<hr>
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FF714&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+Visiting++%E2%9C%8C%F0%9F%8F%BB%EF%B8%8F;Shoot+me+a+message+on+Linkedin;I'm+always+down+to+collab" alt="Typing SVG" /></a>
+</h1>
