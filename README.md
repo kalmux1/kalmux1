@@ -81,3 +81,9 @@
   <img src="https://streak-stats.demolab.com?user=kalmux1&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3&disable_animations=false" height="160" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=kalmux1&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&disable_animations=false" height="150" alt="trophy graph"  />
 </div>
+
+<hr>
+
+<div align=center>
+    <a href="https://www.buymeacoffee.com/kalmux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
