@@ -79,7 +79,7 @@
 <br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalmux1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=chartreuse-dark&hide_border=false&order=2&disable_animations=false" height="160" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kalmux1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kalmux1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="189" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=kalmux1&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3&disable_animations=false" height="160" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=kalmux1&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&disable_animations=false" height="150" alt="trophy graph"  />
 </div>
