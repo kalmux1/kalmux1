@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Cyber Security | Coder | Editor | Web Developer | CTF | TryHackMe Top 7% | Cyber Forensics | CEH </h3>
+<h3 align="center">Cyber Security | Coder | Editor | Web Developer | CTF | TryHackMe Top 6% | Cyber Forensics | CEH </h3>
 
 ###
 <br>
