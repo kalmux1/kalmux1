@@ -23,6 +23,8 @@
 
 *    👨‍💻 All of my projects are available at [KALMUX](https://linktr.ee/kalmux)
 
+*    🎖️ Certifications: EC-COUNCIL, CISCO, GOOGLE, IBM, CNSP, THM, CEH v12, EHE, DFE, WHO
+
 *    💬 Ask me about **Cyber Security Topics**
 
 *    📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/nitin-jaiswal-630662283/)
