@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Cyber Security | Coder | Editor | Web Developer | CTF | TryHackMe Top 6% | Cyber Forensics | CEH </h3>
+<h3 align="center">Cybersecurity Enthusiast | Python Developer | Web Developer (WordPress) | CTF Competitor <br> TryHackMe Top 5% </h3>
 
 ###
 <br>
@@ -21,7 +21,7 @@
 
 *    👯 I’m looking to collaborate on **Future Projects**
 
-*    👨‍💻 All of my projects are available at [KALMUX](https://linktr.ee/kalmux)
+*    👨‍💻 Also Visit at [KALMUX](https://linktr.ee/kalmux)
 
 *    🎖️Certifications: EC-COUNCIL, CISCO, GOOGLE, IBM,<br>
                         CNSP, THM, CEH v12, EHE, DFE, WHO              
