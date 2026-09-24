@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&color=20F716&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Kalmux!;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&color=20F716&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Kalmux;" />
 </h1>
 
 <h3 align="center">
@@ -41,9 +41,11 @@
         <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=21262d" height="42" alt="TryHackMe" />
       </a>
     </td>
-    <td width="18"></td>
+     <td width="18"></td>
     <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Discord-kalmux-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=21262d" height="42" alt="Discord: kalmux" />
+      <a href="https://discord.com/users/1170942026922082390" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-kalmux-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=21262d" height="42" alt="Discord: kalmux" />
+      </a>
     </td>
     <td width="18"></td>
     <td align="center" valign="middle">
@@ -110,5 +112,5 @@
 <hr>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF714&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+Visiting++%E2%9C%8C%F0%9F%8F%BB%EF%B8%8F;I%27m+always+down+to+collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF714&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+Visiting++%E2%9C%8C%F0%9F%8F%BB%EF%B8%8F;I%27m+always+down+to+collab!" alt="Typing SVG" />
 </h1>
