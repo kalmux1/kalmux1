@@ -37,11 +37,17 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
+      <a href="https://kalmux1.github.io/Kalmux-Portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-20F716?style=for-the-badge&logo=firefoxbrowser&logoColor=black&labelColor=21262d" height="42" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="18"></td>
+    <td align="center" valign="middle">
       <a href="https://tryhackme.com/p/kalmux" target="_blank">
         <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=21262d" height="42" alt="TryHackMe" />
       </a>
     </td>
-     <td width="18"></td>
+    <td width="18"></td>
     <td align="center" valign="middle">
       <a href="https://discord.com/users/1170942026922082390" target="_blank">
         <img src="https://img.shields.io/badge/Discord-kalmux-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=21262d" height="42" alt="Discord: kalmux" />
