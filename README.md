@@ -34,20 +34,59 @@
 
 <br>
 
-<div align="center">
-  <a href="https://tryhackme.com/p/kalmux" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord%3A%20kalmux&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Discord: kalmux" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://tryhackme.com/p/kalmux" target="_blank">
+        <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=21262d" height="42" alt="TryHackMe" />
+      </a>
+    </td>
+    <td width="18"></td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Discord-kalmux-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=21262d" height="42" alt="Discord: kalmux" />
+    </td>
+    <td width="18"></td>
+    <td align="center" valign="middle">
+      <a href="mailto:kal.mux.cyber@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-kal.mux.cyber-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21262d" height="42" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,python,bash,git,mysql,linux,debian,markdown" /><br>
+  <img src="https://skillicons.dev/icons?i=html,bash,git,mysql,linux,debian" /><br>
   <img src="https://skillicons.dev/icons?i=redhat,ubuntu,kali,vscode,wordpress,github" /><br>
+  <img src="https://skillicons.dev/icons?i=powershell,java,js,python,go,markdown" /><br>
+</div>
+
+<hr>
+
+<h2 align="center">🛡️ Cybersecurity & Bug Bounty Tools 🛡️</h2>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=sqlmap&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" height="30" /><br>
+  <img src="https://img.shields.io/badge/Nuclei-00ADD8?style=for-the-badge&logo=nuclei&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Amass-4A90D9?style=for-the-badge&logo=amass&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Subfinder-FF6B35?style=for-the-badge&logo=subfinder&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/FFuf-8A2BE2?style=for-the-badge&logo=ffuf&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Gobuster-00A86B?style=for-the-badge&logo=gobuster&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=nikto&logoColor=white" height="30" /><br>
+  <img src="https://img.shields.io/badge/Hydra-FF4500?style=for-the-badge&logo=hydra&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=johntheripper&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Hashcat-333333?style=for-the-badge&logo=hashcat&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-4B0082?style=for-the-badge&logo=aircrackng&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Sublist3r-FF8C00?style=for-the-badge&logo=sublist3r&logoColor=white" height="30" />
 </div>
 
 <hr>
@@ -65,7 +104,6 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=kalmux1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=chartreuse-dark&hide_border=false&order=2" height="160" alt="languages graph" />
   <img src="https://github-readme-stats.shion.dev/api?username=kalmux1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
-    <p></p>
   <img src="https://streak-stats.demolab.com?user=kalmux1&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
 </div>
 
